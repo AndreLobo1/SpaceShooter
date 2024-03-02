@@ -1,0 +1,8 @@
+/* Define as propriedades de estilo para o corpo da página */
+body {
+    display: flex; /* Usa um layout flexível para centralizar o conteúdo vertical e horizontalmente */
+    justify-content: center; /* Alinha os itens horizontalmente no centro */
+    align-items: center; /* Alinha os itens verticalmente no centro */
+    height: 100vh; /* Define a altura da área de visualização como 100% da altura da janela do navegador */
+    margin: 0; /* Remove as margens padrão */
+}
